@@ -91,7 +91,7 @@ const ContactForm = () => {
     notification = {
       status: 'success',
       title: 'Success!',
-      message: 'Your message was sent successfully.',
+      message: 'Your message was sent successfully. Congratulations!',
     };
   }
 
